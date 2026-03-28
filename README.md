@@ -1,2 +1,26 @@
-# explainable-ai-for-CNN-based-medical-image-classification
-This project uses a CNN to detect Pneumonia from chest X-ray images and applies Explainable AI to highlight regions influencing the prediction. A web app built with Streamlit allows users to upload images and view results.
+This project implements Explainable AI for medical image classification using a Convolutional Neural Network (CNN).
+
+
+
+The model classifies chest X-ray images into NORMAL or PNEUMONIA categories. 
+
+To improve model transparency, Occlusion Sensitivity is used to highlight regions of the image that influence the prediction.
+
+
+
+Technologies:
+
+TensorFlow
+
+OpenCV
+
+NumPy
+
+Matplotlib
+
+
+
+Explainability Method:
+
+Occlusion Sensitivity
+
