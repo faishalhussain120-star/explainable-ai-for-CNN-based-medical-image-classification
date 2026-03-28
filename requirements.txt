@@ -1,5 +1,7 @@
-tensorflow
+streanlit
+tensorflow==2.15.0
 numpy
-opencv-python
+opencv-python-headless
+pillow
 matplotlib
 scikit-learn
